@@ -15,3 +15,10 @@ InvoiceDate: Date of purchase
 Price: Unit price
 Customer ID: Unique customer ID
 Country: Country of origin
+
+This project is not licensed under any open source license. That means:
+
+1. You may view and learn from the code for educational and personal use.
+2. You may not copy, distribute, or use the code or any part of it in your own work—especially for commercial purposes—without explicit permission from the author.
+
+If you're interested in using this work or collaborating, please reach out directly. vidhanirhea2002@gmail.com
